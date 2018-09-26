@@ -14,7 +14,7 @@ contract CorionXToken is StandardToken, Ownable  {
     string public name = 'CorionX utility token';
     string public symbol = 'CORX';
     uint8 public decimals = 8;
-    uint public INITIAL_SUPPLY = 400000000;
+    uint public INITIAL_SUPPLY = 40000000000000000;
 
 /**
 * @dev Constructor, initialising the suppy and the owner account
