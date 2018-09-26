@@ -11,7 +11,7 @@ import './Ownable.sol';
  */
 contract CorionXToken is StandardToken, Ownable  {
 
-    string public name = 'CorionX';
+    string public name = 'CorionX utility token';
     string public symbol = 'CORX';
     uint8 public decimals = 8;
     uint public INITIAL_SUPPLY = 400000000;
